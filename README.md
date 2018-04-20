@@ -1,7 +1,11 @@
 # SOSNicaragua
 
 > Un servicio de alertas sobre la situación actual en Nicaragua
+>
 > An alert service about the current situation in Nicaragua
+
+![Molotov Man](https://i.pinimg.com/originals/c3/eb/7f/c3eb7f217c7f87709dc8407df0e279b9.jpg)
+
 
 ## Build Setup
 
